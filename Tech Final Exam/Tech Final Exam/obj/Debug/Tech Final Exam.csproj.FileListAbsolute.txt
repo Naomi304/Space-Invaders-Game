@@ -1,0 +1,10 @@
+C:\Users\eawbr\source\repos\Tech Final Exam\Tech Final Exam\obj\Debug\Tech Final Exam.csproj.AssemblyReference.cache
+C:\Users\eawbr\source\repos\Tech Final Exam\Tech Final Exam\obj\Debug\Exam.Form1.resources
+C:\Users\eawbr\source\repos\Tech Final Exam\Tech Final Exam\obj\Debug\Tech_Final_Exam.Properties.Resources.resources
+C:\Users\eawbr\source\repos\Tech Final Exam\Tech Final Exam\obj\Debug\Tech Final Exam.csproj.GenerateResource.cache
+C:\Users\eawbr\source\repos\Tech Final Exam\Tech Final Exam\obj\Debug\Tech Final Exam.csproj.CoreCompileInputs.cache
+C:\Users\eawbr\source\repos\Tech Final Exam\Tech Final Exam\bin\Debug\Tech Final Exam.exe.config
+C:\Users\eawbr\source\repos\Tech Final Exam\Tech Final Exam\bin\Debug\Tech Final Exam.exe
+C:\Users\eawbr\source\repos\Tech Final Exam\Tech Final Exam\bin\Debug\Tech Final Exam.pdb
+C:\Users\eawbr\source\repos\Tech Final Exam\Tech Final Exam\obj\Debug\Tech Final Exam.exe
+C:\Users\eawbr\source\repos\Tech Final Exam\Tech Final Exam\obj\Debug\Tech Final Exam.pdb
